@@ -21,4 +21,5 @@
 10_ANN_klasifikace/10_C_reseni_iris.ipynb
 11_CNN/11_C_reseni_mnist.ipynb
 .gitignore
+.venv
 12_RNN/12_E_reseni_letadlo.ipynb
