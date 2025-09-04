@@ -24,3 +24,16 @@
 .venv
 12_RNN/12_E_reseni_letadlo.ipynb
 03_Regrese/03_D_reseni_Portland.ipynb
+05_Klasifikace/classification_encoder.bin
+05_Klasifikace/classification_std_scaler.bin
+05_Klasifikace/iris_numpy.npz
+05_Klasifikace/kmean_model.sav
+09_ANN/regresion_model.keras
+09_ANN/std_scaler.bin
+09_ANN/graph.png
+10_ANN_klasifikace/classification_model_iris.keras
+10_ANN_klasifikace/classification_model_mnist.keras
+10_ANN_klasifikace/graph
+10_ANN_klasifikace/graph.png
+12_RNN/rnn_simple.keras
+09_ANN/graph
