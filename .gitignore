@@ -42,3 +42,6 @@
 11_CNN/classification_model_cifar10.keras
 11_CNN/graph
 11_CNN/graph.png
+12_RNN/rnn_gru.keras
+12_RNN/rnn_ltsm.keras
+12_RNN/rnn_bi_ltsm.keras
