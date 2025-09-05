@@ -39,3 +39,6 @@
 09_ANN/graph
 08_Teorie_her/08_D_reseni_piskvorky.ipynb
 08_Teorie_her/08_E_reseni_piskvorky_alfa_beta.ipynb
+11_CNN/classification_model_cifar10.keras
+11_CNN/graph
+11_CNN/graph.png
