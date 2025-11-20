@@ -45,3 +45,4 @@
 12_RNN/rnn_gru.keras
 12_RNN/rnn_ltsm.keras
 12_RNN/rnn_bi_ltsm.keras
+09_ANN/regression_model.pt
