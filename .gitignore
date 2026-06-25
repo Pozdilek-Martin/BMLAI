@@ -81,3 +81,10 @@
 12_RNN/graph
 12_RNN/graph.png
 05_Klasifikace/svm.sav
+02_Dataset/chart.png
+02_Dataset/fa_portland.pkl
+02_Dataset/fa.pkl
+02_Dataset/scaler_portland.pkl
+02_Dataset/scaler.pkl
+04_PCA/04_E_reseni_polynom.ipynb
+04_PCA/04_F_reseni_PCA.ipynb
