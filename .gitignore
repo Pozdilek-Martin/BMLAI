@@ -88,3 +88,7 @@
 02_Dataset/scaler.pkl
 04_PCA/04_E_reseni_polynom.ipynb
 04_PCA/04_F_reseni_PCA.ipynb
+05_Klasifikace/05_F_reseni_kmean.ipynb
+05_Klasifikace/kmean_model.bin
+05_Klasifikace/dt_model.bin
+05_Klasifikace/rf_model.bin
