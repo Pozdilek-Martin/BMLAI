@@ -93,3 +93,5 @@
 05_Klasifikace/dt_model.bin
 05_Klasifikace/rf_model.bin
 05_Klasifikace/svm.bin
+12_RNN/rnn_bi_lstm.keras
+12_RNN/rnn_lstm.keras
